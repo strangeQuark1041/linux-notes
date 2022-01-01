@@ -1,0 +1,52 @@
+List of software to install
+Google Chrome
+Git https://www.linode.com/docs/guides/how-to-install-git-on-linux-mac-and-windows/
+gcc
+g++
+cmake
+Nvidia drivers https://www.reddit.com/r/Fedora/comments/mdlqmz/possible_to_install_nvidia_driver_on_fedora_34/
+Anaconda Python https://www.anaconda.com/products/individual
+Java
+C# https://docs.microsoft.com/en-us/dotnet/core/install/linux
+Latex https://www.google.com/search?q=linux+latex+install
+Node.js https://nodejs.org/
+Blender Launcher https://dotbow.github.io/Blender-Launcher/
+Davinci Resolve https://youtu.be/xSTjpoGwRaU
+Visual Studio Code https://code.visualstudio.com/
+wine
+BlueJ
+Arduio IDE
+Docker
+Nvidia Docker
+VLC media player
+Audacity
+OBS https://obsproject.com/
+Zoom https://zoom.us/
+JSPlacement https://windmillart.net/?p=jsplacement
+GIMP
+Julia
+Discord
+Krita
+Inkscape
+FreeCAD
+Helm
+Gaea
+PSensor
+Pulse Audio
+Qalculate
+IrfanView
+Flameshot
+FSpy
+LMMS
+Microsoft Edge
+Edex Terminal Emulator
+Geekbench
+WinFF
+Video Downloader
+Qt Editor
+Deskreen http://deskreen.com/
+Ultimaker Cura
+Unity
+
+Sweet Theme https://www.gnome-look.org/p/1253385/
+Candy Icons https://www.gnome-look.org/p/1305251/
